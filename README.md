@@ -1,5 +1,3 @@
-# My own repo
-
 # ROB2004 Robotics manipulation and locomotion
 
 This repository provides material used for the class **ROB2004 Robotic manipulation and locomotion** taught at New York University by [Ludovic Righetti](https://engineering.nyu.edu/faculty/ludovic-righetti).
